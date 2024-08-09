@@ -10,8 +10,8 @@ from config import LOGGER
 
 
 class Bot(Client):
-    USER: User = None
-    USER_ID: int = None
+    USER: User = BQG2SaYALSFUemAdNPhFRG3jekt3Zk3T-_WB6jdR9GR0035e8GRcQKshQYgj1TQIFWInCrxTm_ASl30ftxu9wqbotis7DRzzr6XxC_xJ-YdjpnE6ktWudB0ss6XNjSwR92iUI-9B0ewCvaVNws54PFySK4dK41BIGnPwgXJI2ifNt-sVnf8Qe4FQQKfB7RGcvqAowGy2vzoc1JnqBTU9kHk0dk_TTiJeCKlMrMbFD6IiYQWVhO1VxCFEUL9C9_hC-q2DjWtPO7U7ne_ntCKUtlT88sFGR_8DYFdYF172C-rToepj-yeyeSGc623OPRVdACQiTCFwsuPZ9VX_ZT6VgK0PQpM4PAAAAABXZYVDAA
+    USER_ID: int = 5837577167
 
     def __init__(self):
         super().__init__(
