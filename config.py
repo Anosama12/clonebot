@@ -20,7 +20,7 @@ class Config(object):
     API_HASH = "b27d49e801eca418acc68d35c5fa768e"
 
     # Generate a user session string
-    TG_USER_SESSION = "BQG2SaYALSFUemAdNPhFRG3jekt3Zk3T-_WB6jdR9GR0035e8GRcQKshQYgj1TQIFWInCrxTm_ASl30ftxu9wqbotis7DRzzr6XxC_xJ-YdjpnE6ktWudB0ss6XNjSwR92iUI-9B0ewCvaVNws54PFySK4dK41BIGnPwgXJI2ifNt-sVnf8Qe4FQQKfB7RGcvqAowGy2vzoc1JnqBTU9kHk0dk_TTiJeCKlMrMbFD6IiYQWVhO1VxCFEUL9C9_hC-q2DjWtPO7U7ne_ntCKUtlT88sFGR_8DYFdYF172C-rToepj-yeyeSGc623OPRVdACQiTCFwsuPZ9VX_ZT6VgK0PQpM4PAAAAABXZYVDAA"
+    TG_USER_SESSION = "BQFz0gkAJ6bG4FkeEkptzHgVg0phYoLDLA8TlgpNxA3d1wDjEDKJv8MfTr8c_z5NKIUjUWy31c-3Xi1VYYiojioi3kjazDjfnH2xDM9MIoTBB6Yuh3ozgDHYNUal-VTOGT66DQgyR6UKFQHZQfSMW2HSTJilJ_hr370AOgThCax-pWXidywO4PSU3O0cEq42fhuEWN4Tvh-g_U908UaUee2NiApL9KNiUGs2aPvT4a4tdONQWXURwaNwljDB-nvvCOhy30Xv6tIJVWRB3n7iAYzy9WQ8kLs_SnfbCi_nrgfti7Pj8RrjEhd5fpwnfaB_XR9yq17ystY06vXqkUvw5FZh3ytP1QAAAAFb8lvPAA"
 
     # Database URI
     DB_URI = "postgres://avnadmin:AVNS_tdEfuk4UCQi6vZo71ys@pg-3d393bff-sampatel0785-0f1b.k.aivencloud.com:21987/defaultdb?sslmode=require"
